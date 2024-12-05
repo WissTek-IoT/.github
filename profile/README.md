@@ -1,6 +1,6 @@
 # 🌎 Wiss Tek - Comunidade UNICAMP 🛰️
 
-[![IoTCursos](https://img.shields.io/badge/IoTCursos-004?style=for-the-badge&logoColor=white&labelColor=505050)](https://iotcursosunicamp.com.br/)[![Informações sobre Cursos](https://img.shields.io/badge/Informações%20sobre%20Cursos-007bff?style=for-the-badge&logoColor=white&labelColor=0056b3)](https://iotcursosunicamp.com.br/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v245074@dac.unicamp.br)
+[![IoTCursos](https://img.shields.io/badge/IoTCursos-004?style=for-the-badge&logoColor=white&labelColor=505050)](https://iotcursosunicamp.com.br/)[![Informações sobre Cursos](https://img.shields.io/badge/Informações%20sobre%20Cursos-007bff?style=for-the-badge&logoColor=white&labelColor=0056b3)](https://iotcursos.com.br/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v245074@dac.unicamp.br)
 
 <div style="display:inline-block"><br>
   <img align="center" alt="Samuel-HTML" height="41,25" width="" src=".\logo\logo.webp" />
