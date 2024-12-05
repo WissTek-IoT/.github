@@ -32,4 +32,4 @@ Se você é um entusiasta de tecnologia, pesquisador ou estudante interessado em
 
 ## Contato
 
-Para mais informações ou para se tornar parte da nossa comunidade, entre em contato conosco através de [nosso site](http://www.wisstek.org/) ou envie um e-mail para v245074@dac.unicamp.br.
+Para mais informações ou para se tornar parte da nossa comunidade, entre em contato conosco através de [nosso site](http://www.wisstek.org/) ou envie um e-mail para professor.omar.branquinho@gmail.com.
