@@ -1,10 +1,10 @@
 # 🌎 Wiss Tek - Comunidade UNICAMP 🛰️
 
-[![IoTCursos](https://img.shields.io/badge/IoTCursos-004?style=for-the-badge&logoColor=white&labelColor=505050)](https://iotcursosunicamp.com.br/)[![Informações sobre Cursos](https://img.shields.io/badge/Informações%20sobre%20Cursos-007bff?style=for-the-badge&logoColor=white&labelColor=0056b3)](https://iotcursos.com.br/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v245074@dac.unicamp.br)
+[![IoTCursos](https://img.shields.io/badge/IoTCursos-004?style=for-the-badge&logoColor=white&labelColor=505050)](https://iotcursosunicamp.com.br/)[![Informações sobre Cursos](https://img.shields.io/badge/Informações%20sobre%20Cursos-007bff?style=for-the-badge&logoColor=white&labelColor=0056b3)](https://iotcursos.com.br/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wisstekiot@gmail.com)
 
 <div style="display:inline-block"><br>
-  <img align="center" alt="Samuel-HTML" height="41,25" width="" src=".\logo\logo.webp" />
-  <img align="center" alt="Samuel-HTML" height="41,25" width="" src=".\logo\wifi.png" />
+  <img align="center" alt="" height="41,25" width="" src=".\logo\logo.webp" />
+  <img align="center" alt="" height="41,25" width="" src=".\logo\wifi.png" />
 <div>
  <img/>
 
@@ -32,4 +32,5 @@ Se você é um entusiasta de tecnologia, pesquisador ou estudante interessado em
 
 ## Contato
 
-Para mais informações ou para se tornar parte da nossa comunidade, entre em contato conosco através de [nosso site](http://www.wisstek.org/) ou envie um e-mail para professor.omar.branquinho@gmail.com.
+Para mais informações ou para se tornar parte da nossa comunidade, entre em contato conosco através de [nosso site](http://www.wisstek.org/) ou envie um e-mail para wisstekiot@gmail.com.
+
